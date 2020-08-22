@@ -1,2 +1,2 @@
-# mavenrepo2
+# hello-world
 test
